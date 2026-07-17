@@ -29,10 +29,10 @@ See [docs/wiring_connections.md](docs/wiring_connections.md) for full pin connec
 ## Project Images
 
 ### Setup
-![Setup](images/setup_photo.jpg)
+![Setup](images/setup_photo.jpeg)
 
 ### Live Readings
-![LCD Readings](images/lcd_readings.jpg)
+![LCD Readings](images/lcd_readings.jpeg)
 
 ## Setup Instructions
 1. Wire the components as described in the wiring docs.
