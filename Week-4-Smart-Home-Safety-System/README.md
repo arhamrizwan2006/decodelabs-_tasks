@@ -56,9 +56,3 @@ Gas threshold exceeded and validated — system locked, buzzer active, red LED f
 Shows normal sensor readings, followed by smoke/gas introduced near the MQ-2 sensor, triggering the validation window and subsequent lockdown with buzzer alert.
 
 [Watch demo video](images/demo-video.mp4)
-
-## Troubleshooting
-See [docs/TROUBLESHOOTING.md](docs/TROUBLESHOOTING.md) for common issues encountered during development (PIR tuning, power/brownout effects, buzzer wiring, etc.)
-
-## Author
-Arham Rizwan — DecodeLabs IoT Internship, 2026
